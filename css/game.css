@@ -8,7 +8,23 @@
 margin-left: auto;
 margin-right: auto;
 text-align: center;
+
+
+padding: 100px 0 24px;
+background-repeat: no-repeat;
+background-size: cover;
+background-image: linear-gradient(
+    to bottom,
+    rgba(46, 47, 66, 0.7),
+    rgba(46, 47, 66, 0.7)
+  ),
+  url(./istockphoto-1186585903-612x612.jpg);
+max-width: 1440px;
+background-position: center;
+background-repeat: no-repeat;
+margin: auto;
 }
+
 
 
 .title{ 
@@ -81,7 +97,7 @@ text-align: center;
   align-items: center;
   width: 100%;
   height: 100%;
-  background-color: #fff;
+background-color: #ebf485;
 
 }
 
@@ -94,6 +110,6 @@ text-align: center;
   background-color: #fff;
   padding: 15px;
   border-radius: 20px;
-  box-shadow: 0 0 40px rgba(158, 240, 44, 0.5);
+  box-shadow: 0 0 40px rgba(78, 60, 238, 0.5);
   border: 2px solid #ccc;
 }
