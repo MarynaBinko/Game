@@ -13,7 +13,7 @@ text-align: center;
 
 .title{ 
   font-family: 'Press Start 2P', cursive;
-  font-size: 3rem;
+  font-size: 42px;
   color: #f0f80e;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
   animation: pulse 1s infinite alternate; 
@@ -94,6 +94,6 @@ text-align: center;
   background-color: #fff;
   padding: 15px;
   border-radius: 20px;
-  box-shadow: 0 0 40px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 40px rgba(158, 240, 44, 0.5);
   border: 2px solid #ccc;
 }
